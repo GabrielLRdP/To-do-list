@@ -1,0 +1,82 @@
+*{
+    
+}
+
+body {
+    background: rgb(238, 206, 163);
+    
+}
+
+
+h1 {
+    text-align: center ;
+    padding-top : 30px ;
+    
+}
+
+ul {
+    width : 40%;
+    margin: auto;
+    padding: 50px;
+    
+
+}
+
+li{
+    height: 50px;
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: rgb(227, 228, 183);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.barre{
+
+    height: 50px;
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: rgb(227, 228, 183);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration : line-through;
+    
+}
+
+section {
+    background : white;
+    border-radius: 10px;
+    width : 40%;
+    margin : auto;
+}
+
+
+
+#ajouter {
+    
+    width : 100%;
+    margin: auto;
+    
+    
+}
+
+.trash {
+    width: 15px;
+    height : 15px;
+    background-image : url(Logo/trash.png);
+}
+
+.inputUser {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width : 70%;
+    margin : auto;
+    padding : 50px;
+    
+}
